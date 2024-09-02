@@ -1,0 +1,37 @@
+.Heading{
+    display:flex;
+    justify-content: center;
+    margin: 50px;
+}
+.Words{
+   font-size: 25px;
+   display: flex;
+   justify-content: center;
+   margin: 50px;
+}
+.container1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 15px;
+}.container2{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    margin: 15px;
+}.container3{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: 15px;
+}.container4{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 15px;
+}
+.Blocks{
+    display:flex;
+    justify-content: space-between;
+    justify-content: center;
+}
